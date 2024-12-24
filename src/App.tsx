@@ -10,6 +10,8 @@ import {
 } from "./components";
 import FadeIn from './components/FadeIn';
 import './index.scss';
+import Resume from "./components/Resume";
+import Achievements from "./components/Achievements";
 
 function App() {
     const [mode, setMode] = useState<string>('dark');
@@ -34,6 +36,8 @@ function App() {
             <Expertise/>
             <Timeline/>
             <Project/>
+            <Achievements/>         
+            <Resume/>          
             <Contact/>
         </FadeIn>
         <Footer />

@@ -10,7 +10,6 @@ function Footer() {
         <a href="https://github.com/bhavyarangu333" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/bhavya-rangu-66b72a1b8" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>A portfolio designed & built by Bhavya Rangu with 💜</p>
     </footer>
   );
 }
