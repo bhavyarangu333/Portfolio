@@ -8,7 +8,7 @@ function Resume() {
             <p>You can view or download my resume below:</p>
             <div className="resume-actions">
                 <a 
-                    href="https://drive.google.com/file/d/1n8At_JvgsSx6Jpr41MqDuKgTrHb_MBb6/view?usp=drivesdk" 
+                    href="https://drive.google.com/file/d/1rpsWFdASFjIuyCUqCHzYNqS_mf64ueIb/view?usp=drive_link" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="view-button"
