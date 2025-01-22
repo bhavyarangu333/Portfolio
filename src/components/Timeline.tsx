@@ -20,7 +20,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Web Developer</h3>
+            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">CSUG, FULLERTON</h4>
             <p>
               Full-stack Web Development, React, User Experience, Site Optimization, Performance Monitoring, Google Analytics, New Relic
@@ -32,7 +32,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Software Engineer</h3>
+            <h3 className="vertical-timeline-element-title">Data Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">INFOSYS, HYDERABAD</h4>
             <p>
             Full-stack Development, ASP.NET, C#, Azure, Machine Learning, CI/CD, Jenkins, GitHub CI, Docker, SQL, Oracle, Web Forms, Angular, JavaScript
@@ -44,7 +44,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Software Developer</h3>
+            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">SS Computers Services Limited, HYDERABAD</h4>
             <p>
             Full-stack Development, API Integration, Performance Optimization, Cloud Services, Real-time Systems, Automation
