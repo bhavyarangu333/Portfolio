@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Data Analyst</h3>
-            <h4 className="vertical-timeline-element-subtitle">CSUG, FULLERTON</h4>
+            <h4 className="vertical-timeline-element-subtitle">CSU, FULLERTON</h4>
             <p>
               Full-stack Web Development, React, User Experience, Site Optimization, Performance Monitoring, Google Analytics, New Relic
             </p>
